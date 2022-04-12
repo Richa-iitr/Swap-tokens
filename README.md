@@ -1,15 +1,4 @@
-# Basic Sample Hardhat Project
+# Swapping multiple tokens to single token using spells
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+![Screenshot from 2022-04-12 18-16-11](https://user-images.githubusercontent.com/76250660/162965640-caff2dcd-9ef4-4745-b138-4e3cf050b2af.png)
